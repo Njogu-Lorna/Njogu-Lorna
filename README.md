@@ -1,7 +1,7 @@
-### Hi there 👋
-### Hi there 👋, My name is Lorna Njogu
+
+### Hello world 👋
 #### 😁I'm a Student, Developer, and Tutor!!
-![😁I'm a Student, Developer, and Tutor!!](https://ibb.co/yh49RMP)
+![😁I'm a Student, Developer, and Tutor!!](https://github.com/Njogu-Lorna/Pride/blob/main/pride.jpeg)
 
 
 Skills: HTML / CSS / JAVASCRIPT / REACT

@@ -1,19 +1,32 @@
-
-### Hello world 👋
-#### 😁I'm a Student, Developer, and Tutor!!
-![😁I'm a Student, Developer, and Tutor!!](https://github.com/Njogu-Lorna/Pride/blob/main/pride.jpeg)
+-----                    
+👋 Hello, there! Welcome to my GitHub Profile! 🚀
 
 
-Skills: HTML / CSS / JAVASCRIPT / REACT
+🎓 I'm a Computer Science student with an insatiable curiosity and an unquenchable thirst for knowledge. 🌟
 
-- 🔭 I’m currently working on Improving my JS skills. 
-- 🌱 I’m currently learning Computer Science at the Catholic University of Eastern Africa,Langata Campus. 
-- 👯 I’m looking to collaborate on projects relating to css feature elements such as cards,buttons etc 
-- 🤔 I’m looking for help with with learning Javascript which is proving a bit difficult to master. 
-- 📫 How to reach me: njogulorna@gmail.com 
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: I love to write poems,hike,photography and ride bikes. 
+💼 Entrepreneurial-minded, I'm on a mission to build and connect the digital world, one line of code at a time. 💻💡
 
+🌐 I'm passionate about networking systems, love crafting elegant code, and thrive on analyzing data to extract valuable insights. 🌐📊
+
+🌟 In my free time, you'll find me exploring the past through POV historical books 📚, pushing my limits while working out 💪, conquering new heights through hiking ⛰️, and finding inspiration in music 🎶 and movies 🎥.
+
+💻 Proficient in:
+
+HTML/CSS 🎨
+JavaScript (Currently diving deep! 🏊‍♂️)
+🔥 I'm also determined to master:
+
+Python 🐍
+JavaScript and its dynamic frameworks 🌐
+📚 Life is a never-ending learning curve, and I'm always ready to embrace new opportunities for growth and discovery. 🔄🧠
+
+🚀 Every challenge is an opportunity, and I tackle them with a mix of passion, creativity, and resilience. 💪🚀
+
+🌟 Check out my repositories to see my coding journey in action. Let's connect and collaborate on exciting projects! 🤝
+
+🌍 Ready to kickstart my career in programming and make a positive impact on the tech world, all while enjoying the beauty of life's diverse interests! 🌍💼
+
+------
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Njogu-Lorna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lorna-njogu-14b5251b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BnEXY7SxASHyewD%2ButIKedw%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/lorna.w.njogu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_.njogu._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/El__Njogu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/el.njogu_/)  
 
@@ -25,4 +38,6 @@ Skills: HTML / CSS / JAVASCRIPT / REACT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Njogu-Lorna&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Njogu-Lorna)  
+![Profile views](https://gpvc.arturio.dev/Njogu-Lorna)   
+
+
